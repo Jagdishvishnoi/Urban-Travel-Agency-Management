@@ -1,0 +1,14 @@
+
+Customer ID: 123
+Name: Jagdish
+Age: 22
+Mobile Number: 9828270616
+Address: Nagaur
+Gender: male
+
+Customer ID: 123
+Name: Jagdish Panwar
+Age: 22
+Mobile Number: 9828270819
+Address: NITK
+Gender: Male
